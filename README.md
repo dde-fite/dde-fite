@@ -25,6 +25,10 @@ I am a hybrid systems and web developer focused on application optimization and 
   </a>
 </p>
 
+## Currently working at
+[![aprendiendo-cobol](https://github-readme-stats.vercel.app/api/pin/?username=daviddefitero&repo=aprendiendo-cobol)](https://github.com/daviddefitero/aprendiendo-cobol)
+[![fullstackopen-exercises](https://github-readme-stats.vercel.app/api/pin/?username=daviddefitero&repo=fullstackopen-exercises)](https://github.com/daviddefitero/fullstackopen-exercises)
+
 <!-- STATS -->
 ## Stats & Streak
 <div align="center">
