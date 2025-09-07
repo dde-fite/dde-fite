@@ -26,8 +26,8 @@ I am a hybrid systems and web developer focused on application optimization and 
 </p>
 
 ## Currently working at
-[![aprendiendo-cobol](https://github-readme-stats-three-iota-14.vercel.app/api/pin/?username=daviddefitero&repo=aprendiendo-cobol)](https://github.com/daviddefitero/aprendiendo-cobol)
-[![fullstackopen-exercises](https://github-readme-stats-three-iota-14.vercel.app/api/pin/?username=daviddefitero&repo=fullstackopen-exercises)](https://github.com/daviddefitero/fullstackopen-exercises)
+[![aprendiendo-cobol](https://github-readme-stats-three-iota-14.vercel.app/api/pin/?username=daviddefitero&repo=aprendiendo-cobol&hide_border=true&title_color=0068fc&icon_color=0068fc&text_color=414b61&bg_color=fffff)](https://github.com/daviddefitero/aprendiendo-cobol)
+[![fullstackopen-exercises](https://github-readme-stats-three-iota-14.vercel.app/api/pin/?username=daviddefitero&repo=fullstackopen-exercises&hide_border=true&title_color=0068fc&icon_color=0068fc&text_color=414b61&bg_color=fffff)](https://github.com/daviddefitero/fullstackopen-exercises)
 
 <!-- STATS -->
 ## Stats & Streak
