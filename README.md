@@ -2,9 +2,9 @@
 	<h1>Hey there <img src="https://raw.githubusercontent.com/daviddefitero/daviddefitero/refs/heads/main/media/waving-hand.png" alt="Waving Hand" width="25" height="25" />, I'm David</h1>
 	<img align="center" src="https://raw.githubusercontent.com/daviddefitero/daviddefitero/refs/heads/main/media/banner.gif">
 	<br></br>
-	<!-- <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=daviddefitero&repo=madushadhanushka&countColorcountColor&countColor=%230068fc" alt="Views Counter"> -->
+	<img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=daviddefitero&repo=madushadhanushka&countColorcountColor&countColor=%230068fc" alt="Views Counter">
 	<a href="https://www.linkedin.com/in/david-de-fitero/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-	<a href="mailto:david@defitero.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-6D4AFF?style=for-the-badge&logo=Proton Mail&logoColor=white&link=mailto:david@defitero.com"/></a>
+	<a href="mailto:david@defitero.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-6D4AFF?style=for-the-badge&logo=ProtonMail&logoColor=white&link=mailto:david@defitero.com"/></a>
 	<img src="https://raw.githubusercontent.com/daviddefitero/daviddefitero/refs/heads/main/media/separator.gif">
 </div>
 <!-- About me -->
