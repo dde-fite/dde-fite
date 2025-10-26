@@ -28,7 +28,7 @@ I am a hybrid systems and web developer focused on application optimization and 
 
 ## Currently working at
 [![42_libft](https://github-readme-stats-three-iota-14.vercel.app/api/pin/?username=dde-fite&repo=42_libft&hide_border=true&title_color=0068fc&icon_color=0068fc&text_color=414b61&bg_color=fffff)](https://github.com/dde-fite/42_libft)
-[![42_ft_printf](https://github-readme-stats-three-iota-14.vercel.app/api/pin/?username=dde-fite&repo=42_ft_printf&hide_border=true&title_color=0068fc&icon_color=0068fc&text_color=414b61&bg_color=fffff)](https://github.com/dde-fite/42_printf)
+[![42_ft_printf](https://github-readme-stats-three-iota-14.vercel.app/api/pin/?username=dde-fite&repo=42_ft_printf&hide_border=true&title_color=0068fc&icon_color=0068fc&text_color=414b61&bg_color=fffff)](https://github.com/dde-fite/42_ft_printf)
 [![42_libft_tester](https://github-readme-stats-three-iota-14.vercel.app/api/pin/?username=dde-fite&repo=42_libft_tester&hide_border=true&title_color=0068fc&icon_color=0068fc&text_color=414b61&bg_color=fffff)](https://github.com/dde-fite/42_libft_tester)
 [![aprendiendo-cobol](https://github-readme-stats-three-iota-14.vercel.app/api/pin/?username=dde-fite&repo=aprendiendo-cobol&hide_border=true&title_color=0068fc&icon_color=0068fc&text_color=414b61&bg_color=fffff)](https://github.com/dde-fite/aprendiendo-cobol)
 
