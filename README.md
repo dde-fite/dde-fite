@@ -40,7 +40,7 @@ I am a hybrid systems and web developer focused on application optimization and 
 			<td width="50%" align="center">
 				<img alt="Nora's github stats" align="center"  src="https://github-readme-stats-three-iota-14.vercel.app/api?username=dde-fite&show_icons=true&count_private=true&hide_border=true&title_color=0068fc&icon_color=0068fc&text_color=414b61&bg_color=fffff" />
 				<br></br>
-				<img src="https://github-readme-streak-stats.herokuapp.com?user=dde-fite&hide_border=true&sideNums=0068FC&currStreakNum=414B61" />
+				<img src="https://github-readme-streak-stats-alpha-lyart.vercel.app?user=dde-fite&hide_border=true&sideNums=0068FC&currStreakNum=414B61" />
 			</td>
 			<td width="50%" align="center">
 				<img alt="Nora's most used languages" align="center"  src="https://github-readme-stats-three-iota-14.vercel.app/api/wakatime?username=nora.defitero&api_domain=codestats.cloud.defitero.com&hide_border=true&title_color=0068fc&icon_color=0068fc&text_color=414b61&bg_color=fffff&no-frame=true&langs_count=10&custom_title=Most+Used+Languages+(from+27/09/2025)"/>
