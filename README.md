@@ -18,13 +18,32 @@ I am a hybrid systems and web developer focused on application optimization and 
 
 <!-- About me -->
 
-
 ## Technologies & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,rust,actix,js,ts,react,tailwind,astro,nodejs,graphql,php,java,docker,unity,unreal,vim,vscode,webstorm,linux,arch,ps,ae,au" />
-  </a>
-</p>
+
+### Programming Languages
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,js,ts,rust,php,java" />
+</a>
+
+### Web Development
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,astro,nodejs,graphql,actix" />
+</a>
+
+### DevOps & Infrastructure
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,linux,arch" />
+</a>
+
+### Game Development
+<a href="https://skillicons.dev">
+	<img src="https://skillicons.dev/icons?i=unity,unreal" />
+</a>
+
+### Tools
+<a href="https://skillicons.dev">
+	<img src="https://skillicons.dev/icons?i=vim,vscode,webstorm,ps,ae,au" />
+</a>
 
 ## Top Projects
 [![42_push_swap](https://github-readme-stats-three-iota-14.vercel.app/api/pin/?username=dde-fite&repo=42_push_swap&hide_border=true&title_color=0068fc&icon_color=0068fc&text_color=414b61&bg_color=fffff)](https://github.com/dde-fite/42_push_swap)
