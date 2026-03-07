@@ -94,3 +94,5 @@ I am a hybrid systems and web developer focused on application optimization and 
 <div align="center">
 	<img align="center" src="media/separator.gif">
 </div>
+
+![](https://hit.yhype.me/github/profile?account_id=15065528)
