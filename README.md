@@ -62,7 +62,7 @@ I am a hybrid systems and web developer focused on application optimization and 
 				<img src="https://github-readme-streak-stats-alpha-lyart.vercel.app?user=dde-fite&hide_border=true&sideNums=8a2be2&currStreakNum=414B61" />
 			</td>
 			<td width="50%" align="center">
-				<img alt="Nora's most used languages" align="center"  src="https://github-readme-stats-three-iota-14.vercel.app/api/wakatime?username=nora.defitero&api_domain=codestats.cloud.defitero.com&hide_border=true&title_color=8a2be2&icon_color=8a2be2&text_color=414b61&bg_color=fffff&no-frame=true&langs_count=10&custom_title=Most+Used+Languages+(from+27/09/2025)"/>
+				<img alt="Nora's most used languages" align="center"  src="https://github-readme-stats-three-iota-14.vercel.app/api/wakatime?username=nora.defitero&api_domain=codestats.cloud.defitero.com&hide_border=true&title_color=8a2be2&icon_color=8a2be2&text_color=414b61&bg_color=fffff&langs_count=10&custom_title=Most+Used+Languages+(from+27/09/2025)&layout=compact"/>
 			</td>
 		</tr>
 	</table>
