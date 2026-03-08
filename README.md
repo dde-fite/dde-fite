@@ -20,7 +20,7 @@ I am a hybrid systems and web developer focused on application optimization and 
 
 ## Top Projects
 [![Mlx_Python_Game_Engine](https://github-readme-stats-three-iota-14.vercel.app/api/pin/?username=dde-fite&repo=Mlx_Python_Game_Engine&hide_border=true&title_color=8a2be2&icon_color=8a2be2&text_color=414b61&bg_color=fffff)](https://github.com/dde-fite/Mlx_Python_Game_Engine)
-[![42_a_maze_ing](https://github-readme-stats-three-iota-14.vercel.app/api/pin/?username=dde-fite&repo=42_a_maze_ing&hide_border=true&title_color=8a2be2&icon_color=8a2be2&text_color=414b61&bg_color=fffff)](https://github.com/dde-fite/42_a_maze_ing)
+[![42_a_maze_ing](https://github-readme-stats-three-iota-14.vercel.app/api/pin/?username=dde-fite&repo=42_a_maze_ing&hide_border=true&title_color=8a2be2&icon_color=8a2be3&text_color=414b61&bg_color=fffff)](https://github.com/dde-fite/42_a_maze_ing)
 [![42_MiniLibX_Python_Manual](https://github-readme-stats-three-iota-14.vercel.app/api/pin/?username=dde-fite&repo=42_MiniLibX_Python_Manual&hide_border=true&title_color=8a2be2&icon_color=8a2be2&text_color=414b61&bg_color=fffff)](https://github.com/dde-fite/42_MiniLibX_Python_Manual)
 [![aprendiendo-cobol](https://github-readme-stats-three-iota-14.vercel.app/api/pin/?username=dde-fite&repo=aprendiendo-cobol&hide_border=true&title_color=8a2be2&icon_color=8a2be2&text_color=414b61&bg_color=fffff)](https://github.com/dde-fite/aprendiendo-cobol)
 
